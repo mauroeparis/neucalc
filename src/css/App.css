@@ -1,0 +1,29 @@
+.neo-button {
+    border-radius: 23px;
+    box-shadow:  8px 8px 16px #c0c5cc, 
+                 -8px -8px 16px #ffffff;
+}
+
+.neo-button-pressed {
+    border-radius: 23px;
+    box-shadow:  inset 8px 8px 16px #c0c5cc, 
+                 inset -8px -8px 16px #ffffff;
+}
+
+.neo-button-pressed-op {
+    border-radius: 23px;
+    box-shadow:  inset 8px 8px 16px #ed8936, 
+                 inset -8px -8px 16px #f6ad55;
+}
+
+.neo-button-pressed-eq {
+    border-radius: 23px;
+    box-shadow:  inset 8px 8px 16px #4299e1, 
+                 inset -8px -8px 16px #63b3ed;
+}
+
+.neo-display {
+    border-radius: 23px;
+    box-shadow:  8px 8px 16px #c0c5cc, 
+                 -8px -8px 16px #ffffff;
+}
