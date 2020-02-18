@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neocalc/static/css/main.d6604058.chunk.css",
+    "main.js": "/neocalc/static/js/main.9b7dc18b.chunk.js",
+    "main.js.map": "/neocalc/static/js/main.9b7dc18b.chunk.js.map",
+    "runtime-main.js": "/neocalc/static/js/runtime-main.d0dcf6dc.js",
+    "runtime-main.js.map": "/neocalc/static/js/runtime-main.d0dcf6dc.js.map",
+    "static/js/2.0a14d9ae.chunk.js": "/neocalc/static/js/2.0a14d9ae.chunk.js",
+    "static/js/2.0a14d9ae.chunk.js.map": "/neocalc/static/js/2.0a14d9ae.chunk.js.map",
+    "index.html": "/neocalc/index.html",
+    "precache-manifest.7eee65397935c446521982de02fe5880.js": "/neocalc/precache-manifest.7eee65397935c446521982de02fe5880.js",
+    "service-worker.js": "/neocalc/service-worker.js",
+    "static/css/main.d6604058.chunk.css.map": "/neocalc/static/css/main.d6604058.chunk.css.map",
+    "static/js/2.0a14d9ae.chunk.js.LICENSE.txt": "/neocalc/static/js/2.0a14d9ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0dcf6dc.js",
+    "static/js/2.0a14d9ae.chunk.js",
+    "static/css/main.d6604058.chunk.css",
+    "static/js/main.9b7dc18b.chunk.js"
+  ]
+}
