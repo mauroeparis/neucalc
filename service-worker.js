@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neucalc/precache-manifest.26809fc0ba9304863a136e8f89291765.js"
+  "/neucalc/precache-manifest.af06373d519e3172397da0b2ed307309.js"
 );
 
 self.addEventListener('message', (event) => {
